@@ -1,0 +1,3 @@
+/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/cmake-build-debug/CMakeFiles/projet_cpp_2019_BigLazyBrother.dir
+/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/cmake-build-debug/CMakeFiles/edit_cache.dir

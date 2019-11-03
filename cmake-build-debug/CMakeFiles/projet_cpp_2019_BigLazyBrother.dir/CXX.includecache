@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/src/Gentil.cpp
+Gentil.h
+/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/src/Gentil.h
+
+/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/src/Gentil.h
+string
+-
+sstream
+-
+Mechant.h
+/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/src/Mechant.h
+
+/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/src/Mechant.cpp
+Mechant.h
+/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/src/Mechant.h
+
+/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/src/Mechant.h
+string
+-
+sstream
+-
+Gentil.h
+/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/src/Gentil.h
+

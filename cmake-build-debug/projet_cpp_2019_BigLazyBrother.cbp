@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="projet_cpp_2019_BigLazyBrother"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION\ DE\ MONDES\ VIRTUELS/2.\ C++/projet-cpp-2019-BigLazyBrother/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION\ DE\ MONDES\ VIRTUELS/2.\ C++/projet-cpp-2019-BigLazyBrother/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION\ DE\ MONDES\ VIRTUELS/2.\ C++/projet-cpp-2019-BigLazyBrother/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION\ DE\ MONDES\ VIRTUELS/2.\ C++/projet-cpp-2019-BigLazyBrother/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION\ DE\ MONDES\ VIRTUELS/2.\ C++/projet-cpp-2019-BigLazyBrother/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION\ DE\ MONDES\ VIRTUELS/2.\ C++/projet-cpp-2019-BigLazyBrother/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION\ DE\ MONDES\ VIRTUELS/2.\ C++/projet-cpp-2019-BigLazyBrother/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION\ DE\ MONDES\ VIRTUELS/2.\ C++/projet-cpp-2019-BigLazyBrother/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="projet_cpp_2019_BigLazyBrother">
+				<Option output="/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/cmake-build-debug/projet_cpp_2019_BigLazyBrother" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/SFML_INCLUDE_DIR"/>
+					<Add directory="/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/src"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION\ DE\ MONDES\ VIRTUELS/2.\ C++/projet-cpp-2019-BigLazyBrother/cmake-build-debug/Makefile&quot;  VERBOSE=1 projet_cpp_2019_BigLazyBrother"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION\ DE\ MONDES\ VIRTUELS/2.\ C++/projet-cpp-2019-BigLazyBrother/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION\ DE\ MONDES\ VIRTUELS/2.\ C++/projet-cpp-2019-BigLazyBrother/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION\ DE\ MONDES\ VIRTUELS/2.\ C++/projet-cpp-2019-BigLazyBrother/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="projet_cpp_2019_BigLazyBrother/fast">
+				<Option output="/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/cmake-build-debug/projet_cpp_2019_BigLazyBrother" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/SFML_INCLUDE_DIR"/>
+					<Add directory="/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/src"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION\ DE\ MONDES\ VIRTUELS/2.\ C++/projet-cpp-2019-BigLazyBrother/cmake-build-debug/Makefile&quot;  VERBOSE=1 projet_cpp_2019_BigLazyBrother/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION\ DE\ MONDES\ VIRTUELS/2.\ C++/projet-cpp-2019-BigLazyBrother/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION\ DE\ MONDES\ VIRTUELS/2.\ C++/projet-cpp-2019-BigLazyBrother/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION\ DE\ MONDES\ VIRTUELS/2.\ C++/projet-cpp-2019-BigLazyBrother/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION\ DE\ MONDES\ VIRTUELS/2.\ C++/projet-cpp-2019-BigLazyBrother/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION\ DE\ MONDES\ VIRTUELS/2.\ C++/projet-cpp-2019-BigLazyBrother/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION\ DE\ MONDES\ VIRTUELS/2.\ C++/projet-cpp-2019-BigLazyBrother/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION\ DE\ MONDES\ VIRTUELS/2.\ C++/projet-cpp-2019-BigLazyBrother/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/src/Affichage.cpp">
+			<Option target="projet_cpp_2019_BigLazyBrother"/>
+		</Unit>
+		<Unit filename="/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/src/Affichage.h">
+			<Option target="projet_cpp_2019_BigLazyBrother"/>
+		</Unit>
+		<Unit filename="/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/src/Gangster.cpp">
+			<Option target="projet_cpp_2019_BigLazyBrother"/>
+		</Unit>
+		<Unit filename="/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/src/Gangster.h">
+			<Option target="projet_cpp_2019_BigLazyBrother"/>
+		</Unit>
+		<Unit filename="/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/src/Gentil.cpp">
+			<Option target="projet_cpp_2019_BigLazyBrother"/>
+		</Unit>
+		<Unit filename="/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/src/Gentil.h">
+			<Option target="projet_cpp_2019_BigLazyBrother"/>
+		</Unit>
+		<Unit filename="/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/src/Mechant.cpp">
+			<Option target="projet_cpp_2019_BigLazyBrother"/>
+		</Unit>
+		<Unit filename="/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/src/Mechant.h">
+			<Option target="projet_cpp_2019_BigLazyBrother"/>
+		</Unit>
+		<Unit filename="/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/src/ProjetLuckyLukeLocal.cpp">
+			<Option target="projet_cpp_2019_BigLazyBrother"/>
+		</Unit>
+		<Unit filename="/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/src/Sheriff.cpp">
+			<Option target="projet_cpp_2019_BigLazyBrother"/>
+		</Unit>
+		<Unit filename="/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/src/Sheriff.h">
+			<Option target="projet_cpp_2019_BigLazyBrother"/>
+		</Unit>
+		<Unit filename="/home/tcous/Documents/CEGEP_de_Matane/PROGRAMMATION DE MONDES VIRTUELS/2. C++/projet-cpp-2019-BigLazyBrother/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

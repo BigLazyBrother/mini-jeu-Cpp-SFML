@@ -1,0 +1,134 @@
+<Sheriff><etoile>1</etoile><nom>Don Camillo</nom><courage>15</courage><souriant>0</souriant></Sheriff>
+<Gangster><mitraillette>1</mitraillette><nom>Péppone</nom><lachete>14</lachete><cacheOeil>1</cacheOeil></Gangster>
+<Sheriff><etoile>1</etoile><nom>Don Camillo</nom><courage>1</courage><souriant>0</souriant></Sheriff>
+<Gangster><mitraillette>1</mitraillette><nom>Péppone</nom><lachete>1</lachete><cacheOeil>1</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>0</courage><souriant>1</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>0</lachete><cacheOeil>210</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>884223744</courage><souriant>249</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>3</lachete><cacheOeil>249</cacheOeil></Gangster>
+<Sheriff><etoile>1</etoile><nom>Don Camillo</nom><courage>725315329</courage><souriant>0</souriant></Sheriff>
+<Gangster><mitraillette>1</mitraillette><nom>Péppone</nom><lachete>3</lachete><cacheOeil>1</cacheOeil></Gangster>
+<Sheriff><etoile>1</etoile><nom>Don Camillo</nom><courage>1184952309</courage><souriant>0</souriant></Sheriff>
+<Gangster><mitraillette>1</mitraillette><nom>Péppone</nom><lachete>1</lachete><cacheOeil>1</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>132017641</courage><souriant>1</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>1</lachete><cacheOeil>0</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>-1608953868</courage><souriant>91</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>0</lachete><cacheOeil>0</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>2</courage><souriant>1</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>2</lachete><cacheOeil>0</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>1</courage><souriant>1</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>1</lachete><cacheOeil>0</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>1206378335</courage><souriant>136</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>1189554796</lachete><cacheOeil>136</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>-288555169</courage><souriant>6</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>-305378708</lachete><cacheOeil>6</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>29130591</courage><souriant>215</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>12307052</lachete><cacheOeil>215</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>0</courage><souriant>171</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>0</lachete><cacheOeil>171</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>-1055416481</courage><souriant>237</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>-1072240020</lachete><cacheOeil>237</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>569219536</courage><souriant>46</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>3</lachete><cacheOeil>0</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>-795727902</courage><souriant>53</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>0</lachete><cacheOeil>255</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>-22111792</courage><souriant>158</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>3</lachete><cacheOeil>0</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>1087670242</courage><souriant>209</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>0</lachete><cacheOeil>252</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>-481527838</courage><souriant>74</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>0</lachete><cacheOeil>253</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>48818146</courage><souriant>123</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>0</lachete><cacheOeil>254</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>-262199326</courage><souriant>109</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>0</lachete><cacheOeil>254</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>0</courage><souriant>174</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>0</lachete><cacheOeil>174</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>164210658</courage><souriant>151</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>0</lachete><cacheOeil>253</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>-142481438</courage><souriant>222</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>0</lachete><cacheOeil>253</cacheOeil></Gangster>
+<Sheriff><etoile>1</etoile><nom>Don Camillo</nom><courage>2044570221</courage><souriant>0</souriant></Sheriff>
+<Gangster><mitraillette>1</mitraillette><nom>Péppone</nom><lachete>0</lachete><cacheOeil>1</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>-2089484064</courage><souriant>233</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>1488060416</lachete><cacheOeil>173</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>1433899232</courage><souriant>255</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>1433916480</lachete><cacheOeil>255</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>-1942437664</courage><souriant>118</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>-1944494241</lachete><cacheOeil>118</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>-640429856</courage><souriant>25</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>-122552320</lachete><cacheOeil>106</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>-1121632176</courage><souriant>10</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>414318592</lachete><cacheOeil>14</cacheOeil></Gangster>
+<Sheriff><etoile>1</etoile><nom>Don Camillo</nom><courage>-2140319662</courage><souriant>0</souriant></Sheriff>
+<Gangster><mitraillette>1</mitraillette><nom>Péppone</nom><lachete>951189504</lachete><cacheOeil>1</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>1670336593</courage><souriant>1</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>951189505</lachete><cacheOeil>0</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>-1478508463</courage><souriant>1</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>414318593</lachete><cacheOeil>0</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>777298001</courage><souriant>1</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>-659423231</lachete><cacheOeil>0</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>-1228222383</courage><souriant>1</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>951189505</lachete><cacheOeil>0</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>-356741040</courage><souriant>217</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>-1196294144</lachete><cacheOeil>60</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>-1529495472</courage><souriant>240</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>414318592</lachete><cacheOeil>111</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>-1743175600</courage><souriant>106</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>414318592</lachete><cacheOeil>246</cacheOeil></Gangster>
+<Sheriff><etoile>1</etoile><nom>Don Camillo</nom><courage>-808148911</courage><souriant>0</souriant></Sheriff>
+<Gangster><mitraillette>1</mitraillette><nom>Péppone</nom><lachete>-659423232</lachete><cacheOeil>1</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>1178513491</courage><souriant>1</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>-122552320</lachete><cacheOeil>64</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>470884436</courage><souriant>1</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>-659423229</lachete><cacheOeil>0</cacheOeil></Gangster>
+<Sheriff><etoile>1</etoile><nom>Don Camillo</nom><courage>1036021841</courage><souriant>0</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>2024931328</lachete><cacheOeil>68</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>845447254</courage><souriant>1</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>-1733165053</lachete><cacheOeil>0</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>2137948240</courage><souriant>143</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>-1733165056</lachete><cacheOeil>160</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>0</courage><souriant>1</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>0</lachete><cacheOeil>0</cacheOeil></Gangster>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>2</courage><souriant>1</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>2</lachete><cacheOeil>0</cacheOeil></Gangster>
+<Personnages>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>1</courage><souriant>1</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>-15592426</lachete><cacheOeil>21</cacheOeil></Gangster>
+</Personnages>
+<Personnages>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>2</courage><souriant>1</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>-14177578</lachete><cacheOeil>0</cacheOeil></Gangster>
+</Personnages>
+<Personnages>
+<Sheriff><etoile>0</etoile><nom>Don Camillo</nom><courage>1</courage><souriant>1</souriant></Sheriff>
+<Gangster><mitraillette>0</mitraillette><nom>Péppone</nom><lachete>-6764037</lachete><cacheOeil>252</cacheOeil></Gangster>
+</Personnages>
+<Personnages>
+	<Sheriff>
+		<etoile>0</etoile>
+		<nom>Don Camillo</nom>
+		<courage>-15723751</courage>
+		<souriant>1</souriant>
+	</Sheriff>
+	<Gangster>
+		<mitraillette>0</mitraillette>
+		<nom>Péppone</nom>
+		<lachete>1</lachete>
+		<cacheOeil>0</cacheOeil>
+    </Gangster>
+</Personnages>
+<Personnages>
+	<Sheriff>
+		<etoile>0</etoile>
+		<nom>Don Camillo</nom>
+		<courage>2</courage>
+		<souriant>1</souriant>
+	</Sheriff>
+	<Gangster>
+		<mitraillette>0</mitraillette>
+		<nom>Péppone</nom>
+		<lachete>2</lachete>
+		<cacheOeil>0</cacheOeil>
+	</Gangster>
+</Personnages>
